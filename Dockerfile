@@ -1,6 +1,6 @@
 FROM i4slabs/docker-jmeter-server
 
-MAINTAINER Adrian Cepillo <adrian.cepillo@i4s.com>
+MAINTAINER i4slabs
 
 ENV TEST_DIR default
 ENV TEST_PLAN test_plan
